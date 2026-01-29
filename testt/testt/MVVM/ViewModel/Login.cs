@@ -8,5 +8,6 @@ namespace testt.MVVM.ViewModel
 {
     internal class Login
     {
+        public string Username { get; set; }
     }
 }
